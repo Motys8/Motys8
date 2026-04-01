@@ -1,9 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Hugo</h2>
 <p align="center">
-  <b>Computer Science Student at ESILV</b>
+  <h3>Computer Science Student at ESILV</h3>
 </p>
-
----
 
 - 🌱 I’m currently learning **Java and JavaScript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hugo-chi-b9184029a/)
