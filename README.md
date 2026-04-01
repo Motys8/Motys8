@@ -1,9 +1,12 @@
 ## Hi there 👋, I'm Hugo
-**Computer science Student at ESILV**
+<p align="center">
+###Computer science Student at ESILV###
+</p>
 
 - 🌱 I’m currently learning **Java and Javascript**
 - 📫 How to reach me: https://www.linkedin.com/in/hugo-chi-b9184029a/
 
+<p align="center">
   ### 🛠️ Languages & Tools
 
   **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +24,7 @@
   **DevOps & Tools:**
   ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+</p>
 <!--
 **Motys8/Motys8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
